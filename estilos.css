@@ -1,0 +1,19 @@
+.Container{
+    background-color:rgb(0, 0, 0);
+    width:1536;
+    height:160;
+}
+
+.rayaamarilla{
+    background-color:rgb(255, 225, 0);
+    width:1536px;
+    height:4 ;
+    
+}
+
+body{
+background-image:url("Fondo.png");
+background-repeat:no-repeat;
+margin:auto;
+background-size:cover;
+}
